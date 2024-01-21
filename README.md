@@ -1,5 +1,7 @@
 Задание 1: Эксперимент с ReplicaSet
+
 Шаг 1: Создание Docker-образа
+
 Создаю файл app.js с содержимым:
 const http = require('http');
 const os = require('os');
